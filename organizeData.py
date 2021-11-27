@@ -1,4 +1,4 @@
-from readPdf import main as read_pdf
+exfrom readPdf import main as read_pdf
 
 # input raw txt file
 # output clean txt file (see "cleaned_output.txt"),
@@ -16,7 +16,7 @@ ID_JUDGE = "Total Cases"
 # extract info from raw pdf "raw_courtcases.txt" (sees if matches the above identifiers)
 # puts in a new txt file "cleaned_courtcases.txt"
 def extract_impt_info(txt, output):
-    print("Exacting info from raw_courtcases.txt...")
+    print("Extracting info from raw_courtcases.txt...")
     new_file_lines = []
 
     with open(txt.name, 'r') as inp:  # won't let me do both rw (read and write)
