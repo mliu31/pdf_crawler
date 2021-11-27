@@ -8,7 +8,7 @@
 ### --pdf is no more than 999,999 pages long
 ### --# of cases is the last int in the important list (see "organizeData.py")
 ### --file name has the number table (i.e., table 7 has "7" in its filename)
-### pip install the following packages
+### `pip install` the following packages
 1. pdfminer
 2. PyPDF2
 3. pandas
