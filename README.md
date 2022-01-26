@@ -28,10 +28,10 @@ note: pdfminer (library used) doesn't like it when you link to url, so just down
 #
 some code taken from
 stack overflow:
-    https://stackoverflow.com/questions/26494211/extracting-text-from-a-pdf-file-using-pdfminer-in-python
-    https://stackoverflow.com/questions/2369440/how-to-delete-all-blank-lines-in-the-file-with-the-help-of-python
+- https://stackoverflow.com/questions/26494211/extracting-text-from-a-pdf-file-using-pdfminer-in-python
+- https://stackoverflow.com/questions/2369440/how-to-delete-all-blank-lines-in-the-file-with-the-help-of-python
 
 other useful links
-https://overiq.com/python-101/file-handling-in-python/
-https://stackoverflow.com/questions/43438303/how-to-read-print-the-io-textiowrapper-data
-http://projectpython.net/chapter08/ 
+- https://overiq.com/python-101/file-handling-in-python/
+- https://stackoverflow.com/questions/43438303/how-to-read-print-the-io-textiowrapper-data
+- http://projectpython.net/chapter08/ 
